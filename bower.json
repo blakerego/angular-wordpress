@@ -1,0 +1,22 @@
+{
+  "name": "angular-wordpress",
+  "authors": [
+    "Blake Rego <blake.rego@gmail.com>"
+  ],
+  "description": "An AngularJS module based approach to the Wordpress.com API.",
+  "main": "lib/angular-wordpress.js",
+  "keywords": [
+    "wordpress",
+    "wordpress-api",
+    "wordpress.com"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/blakerego/angular-wordpress",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
